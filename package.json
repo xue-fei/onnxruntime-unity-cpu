@@ -1,10 +1,10 @@
 {
-  "name": "ai.onnxruntime",
+  "name": "ai.onnxruntime.onnxruntime-cpu",
   "version": "1.0.1",
-  "displayName": "Onnxruntime-Cpu",
+  "displayName": "onnxruntime-cpu",
   "description": "onnxruntime for unity",
   "author": {
-    "name": "onnxruntime",
+    "name": "onnxruntime-cpu",
     "url": "https://onnxruntime.ai/"
   },
   "repository": {
