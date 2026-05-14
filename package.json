@@ -17,6 +17,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "ai.onnxruntime": "https://github.com/xue-fei/onnxruntime-unity.git#main"
+    "onnxruntime": "https://github.com/xue-fei/onnxruntime-unity.git#main"
   }
 }
