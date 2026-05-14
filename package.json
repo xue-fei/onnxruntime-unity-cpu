@@ -1,5 +1,5 @@
 {
-  "name": "ai.onnxruntime.onnxruntime-cpu",
+  "name": "onnxruntime-cpu",
   "version": "1.0.1",
   "displayName": "onnxruntime-cpu",
   "description": "onnxruntime for unity",
